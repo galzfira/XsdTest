@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clients xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Client>
+		<id>1</id>
+		<name>John</name>
+	</Client>
+	<Client>
+		<id>2</id>
+		<name>Jane</name>
+	</Client>
+	<Client>
+		<id>3</id>
+		<name>Michael</name>
+	</Client>
+</Clients>
